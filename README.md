@@ -3,13 +3,12 @@ Hello, I'm Prince Gupta, and I'd like to introduce myself as a dynamic individua
 Personal Details:
 
 Name: Prince Gupta
-Date of Birth: July 8, 1999
 Email: princegupta98299@gmail.com
 Professional Journey:
 I am currently working as a Full-stack Developer at SSTPL (Sehaj Synergy Technologies Private Limited), and I've been contributing to this role since 2023.
 
 Educational Background:
-I hold a Master's degree in Computer Application with a specialization in Data Science & Analysis from JECRC University, where I studied from 2021 to 2023. Prior to that, I completed my Bachelor's degree in Computer Applications with a focus on Computer Science from CIITM between 2017 and 2021.
+I hold a Master's degree in Computer Application with a specialization in Data Science & Analysis from JECRC University. Prior to that, I completed my Bachelor's degree in Computer Applications with a focus on Computer Science from CIITM.
 
 Skills and Expertise:
 My skills encompass a wide array of technologies, including HTML/CSS/JS, React, Django, Bootstrap, SCSS, npm/yarn/pnpm, MySQL, UX/UI, and TypeScript. I'm a firm believer in staying up-to-date with the latest industry trends and technologies to ensure that my skills are continuously expanding.
