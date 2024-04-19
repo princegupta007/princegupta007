@@ -6,7 +6,7 @@
 
 * 🌍 India
 * ✉️ You can contact me at [princegupta98299@gmail.com](mailto:princegupta98299@gmail.com)
-* ❓ Ask me a question about programming at [my Instagram](https://www.instagram.com/ikcode_igorwnek)
+* ❓ Ask me a question about programming at [my Instagram](https://www.instagram.com/princ_gupta007)
 * 🧠 Languages I learn or master: React, Django
 
 ### 🔗 Connect With Me
