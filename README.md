@@ -1,6 +1,7 @@
 # 🚀 Prince Gupta
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%8C%9F+Inspire;%F0%9F%94%A5+Ignite;%F0%9F%94%84+Adaptability;%F0%9F%92%AA+Resilience;%F0%9F%A4%9D+Empathy" alt="Typing SVG" /></a>
+
 -----------------
 
 * 🌍 India
