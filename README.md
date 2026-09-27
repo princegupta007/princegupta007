@@ -87,6 +87,6 @@
 ### 📊 GitHub activity
 
 <a href="http://www.github.com/princegupta007"><img height="165" src="https://streak-stats.demolab.com/?user=princegupta007&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak" /></a>
-<a href="https://github.com/princegupta007"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princegupta007&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top languages" /></a>
+<a href="https://github.com/princegupta007"><img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=princegupta007&theme=github_dark&bg_color=1c1917&title_color=0891b2&text_color=ffffff" alt="Top languages by commit" /></a>
 
 <sub>Most of my production work lives in private client and company repositories.</sub>
